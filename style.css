@@ -4,21 +4,29 @@
 	color: #000;
 }
 h1 {
-	margin-left: 320px;
+	margin-left: 600px;
 }
-img {
+.footer img {
 	position: relative;
 	left: auto;
 	right: auto;
 	visibility: inherit;
-	margin-left: 160px;
+	margin-left: 400px;
 }
+
 
 .navigation {
 	background-color: #FFF;
 	top: auto;
 	list-style-type: none;
 	margin-left: 5px;
+}
+img {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+body {
+	background-color: #050;	
 }
 li {
 	background-color: #FFF;
@@ -44,6 +52,17 @@ li {
 	margin-top: 5px;
 	margin-right: 40px;
 	margin-bottom: 5px;
-	margin-left: 70px;
+	margin-left: 110px;
 	color: #060;
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+	color: #060;
+}
+.wrapper .content .main table tr th p em {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper .content .main table tr th p {
+	font-family: Verdana, Geneva, sans-serif;
 }
