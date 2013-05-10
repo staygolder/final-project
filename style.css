@@ -1,0 +1,49 @@
+.wrapper {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color: #050;
+	color: #000;
+}
+h1 {
+	margin-left: 320px;
+}
+img {
+	position: relative;
+	left: auto;
+	right: auto;
+	visibility: inherit;
+	margin-left: 160px;
+}
+
+.navigation {
+	background-color: #FFF;
+	top: auto;
+	list-style-type: none;
+	margin-left: 5px;
+}
+li {
+	background-color: #FFF;
+	padding: 10px;
+	height: 20px;
+	width: 85px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	position: relative;
+	text-align: left;
+	float: left;
+	left: 15px;
+	top: 15px;
+	right: 15px;
+	bottom: 15px;
+	list-style-position: outside;
+	margin-top: 5px;
+	margin-right: 40px;
+	margin-bottom: 5px;
+	margin-left: 70px;
+	color: #060;
+}
